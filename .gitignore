@@ -1,0 +1,20 @@
+# Ren'Py generated files
+*.rpyc
+*.rpymc
+*.rpyb
+*.rpymb
+
+# Ren'Py build / cache
+cache/
+saves/
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
